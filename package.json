@@ -9,7 +9,7 @@
     "test": "standard && npm run deps"
   },
   "dependencies": {
-    "content": "^3.0.4",
+    "content": "^4.0.5",
     "pez": "^2.1.5",
     "pump": "^1.0.2",
     "xtend": "^4.0.1"
